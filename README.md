@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @LIKHITH453
 - 👀 I’m interested in machine learning 
-- 🌱 I’m currently learning Java
+- 🌱 I’m currently learning C++,Java
 - 💞️ I’m looking to collaborate on Machine Learning 
 - 📫 How to reach me on gmail at rlikhiht2004@gmail.com
 
